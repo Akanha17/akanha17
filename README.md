@@ -21,5 +21,5 @@ JavaScript | HTML/CSS | Git | GitHub | Markdown
 ---
 
 ### 🤝 Let's Connect
-- 📸 Instagram: `@amlightsense`
+- 📸 Instagram: `@sololense`
 - 💬 DM-friendly for dev talk or photography collab
