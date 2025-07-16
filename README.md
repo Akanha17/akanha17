@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Aishi Ashirvad Mishra 👋
 
-<!--
-**Akanha17/akanha17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently diving deep into **JavaScript fundamentals and weird behaviors**  
+🌱 Learning every day through hands-on experiments and visual demos  
+📘 Building a public roadmap: [coreJsFundamentals](https://github.com/Akanha17/coreJsFundamentals)  
+🎯 Goal: Create a fun, animated learning space under my name  
+📍 Based in Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 My JS Weirdness Repo
+> Real code. Real quirks. Real understanding.
+
+[🔗 Explore JS Fundamentals](https://github.com/Akanha17/coreJsFundamentals)
+
+---
+
+### 🛠 Tech Stack
+JavaScript | HTML/CSS | Git | GitHub | Markdown
+
+---
+
+### 🤝 Let's Connect
+- 📸 Instagram: `@amlightsense`
+- 💬 DM-friendly for dev talk or photography collab
